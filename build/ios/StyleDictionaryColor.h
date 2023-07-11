@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Jul 2023 06:42:54 GMT
+// Generated on Tue, 11 Jul 2023 08:11:11 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -17,6 +17,33 @@ ColorBaseRed,
 ColorBaseGreen,
 ColorHuiWhite,
 ColorHuiBlack,
+ColorHuiRefPrimary0,
+ColorHuiRefPrimary4,
+ColorHuiRefPrimary5,
+ColorHuiRefPrimary6,
+ColorHuiRefPrimary10,
+ColorHuiRefPrimary12,
+ColorHuiRefPrimary17,
+ColorHuiRefPrimary20,
+ColorHuiRefPrimary22,
+ColorHuiRefPrimary24,
+ColorHuiRefPrimary25,
+ColorHuiRefPrimary30,
+ColorHuiRefPrimary35,
+ColorHuiRefPrimary40,
+ColorHuiRefPrimary50,
+ColorHuiRefPrimary60,
+ColorHuiRefPrimary70,
+ColorHuiRefPrimary80,
+ColorHuiRefPrimary87,
+ColorHuiRefPrimary90,
+ColorHuiRefPrimary92,
+ColorHuiRefPrimary94,
+ColorHuiRefPrimary95,
+ColorHuiRefPrimary96,
+ColorHuiRefPrimary98,
+ColorHuiRefPrimary99,
+ColorHuiRefPrimary100,
 ColorHuiRefPrimaryPrimary0,
 ColorHuiRefPrimaryPrimary10,
 ColorHuiRefPrimaryPrimary20,
@@ -281,7 +308,17 @@ ColorHuiSourceModesLightSurfaceContainerLow,
 ColorHuiSourceModesLightSurfaceContainerLowest,
 ColorHuiSourceModesLightSurfaceBright,
 ColorHuiSourceModesLightSurfaceDim,
-ColorHuiSourceModesLightPrimary
+ColorHuiSourceModesLightPrimary,
+ColorFontSize0,
+ColorFontSize1,
+ColorFontSize2,
+ColorFontSize3,
+ColorFontSize4,
+ColorFontSize5,
+ColorFontSize6,
+ColorFontSize7,
+ColorFontSize8,
+ColorFontSize9
 };
 
 @interface StyleDictionaryColor : NSObject

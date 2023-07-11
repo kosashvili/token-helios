@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 11 Jul 2023 06:42:54 GMT
+  Generated on Tue, 11 Jul 2023 08:11:11 GMT
 -->
 <resources>
   <color name="color_base_gray_light">#ffcccccc</color>
@@ -12,6 +12,33 @@
   <color name="color_base_green">#ff00ff00</color>
   <color name="color_hui_white">#ffffffff</color>
   <color name="color_hui_black">#ff000000</color>
+  <color name="color_hui_ref_primary_0">#ff000000</color>
+  <color name="color_hui_ref_primary_4">#ff030045</color>
+  <color name="color_hui_ref_primary_5">#ff03004d</color>
+  <color name="color_hui_ref_primary_6">#ff040054</color>
+  <color name="color_hui_ref_primary_10">#ff07006c</color>
+  <color name="color_hui_ref_primary_12">#ff080078</color>
+  <color name="color_hui_ref_primary_17">#ff0d0096</color>
+  <color name="color_hui_ref_primary_20">#ff1000a9</color>
+  <color name="color_hui_ref_primary_22">#ff170dae</color>
+  <color name="color_hui_ref_primary_24">#ff1d17b2</color>
+  <color name="color_hui_ref_primary_25">#ff201cb4</color>
+  <color name="color_hui_ref_primary_30">#ff2f2ebe</color>
+  <color name="color_hui_ref_primary_35">#ff3c3dca</color>
+  <color name="color_hui_ref_primary_40">#ff494bd6</color>
+  <color name="color_hui_ref_primary_50">#ff6366f1</color>
+  <color name="color_hui_ref_primary_60">#ff8083ff</color>
+  <color name="color_hui_ref_primary_70">#ffa0a3ff</color>
+  <color name="color_hui_ref_primary_80">#ffc0c1ff</color>
+  <color name="color_hui_ref_primary_87">#ffd7d6ff</color>
+  <color name="color_hui_ref_primary_90">#ffe1e0ff</color>
+  <color name="color_hui_ref_primary_92">#ffe8e6ff</color>
+  <color name="color_hui_ref_primary_94">#ffeeecff</color>
+  <color name="color_hui_ref_primary_95">#fff2efff</color>
+  <color name="color_hui_ref_primary_96">#fff5f2ff</color>
+  <color name="color_hui_ref_primary_98">#fffcf8ff</color>
+  <color name="color_hui_ref_primary_99">#fffffbff</color>
+  <color name="color_hui_ref_primary_100">#ffffffff</color>
   <color name="color_hui_ref_primary_primary0">#ff000000</color>
   <color name="color_hui_ref_primary_primary10">#ff07006c</color>
   <color name="color_hui_ref_primary_primary20">#ff1000a9</color>
@@ -277,5 +304,15 @@
   <color name="color_hui_source_modes_light_surface_bright">#fffaf9fd</color>
   <color name="color_hui_source_modes_light_surface_dim">#ffdad9dd</color>
   <color name="color_hui_source_modes_light_primary">#ff494bd6</color>
+  <color name="color_font_size_0">#ff000000</color>
+  <color name="color_font_size_1">#ff000000</color>
+  <color name="color_font_size_2">#ff000000</color>
+  <color name="color_font_size_3">#ff000000</color>
+  <color name="color_font_size_4">#ff000000</color>
+  <color name="color_font_size_5">#ff000000</color>
+  <color name="color_font_size_6">#ff000000</color>
+  <color name="color_font_size_7">#ff000000</color>
+  <color name="color_font_size_8">#ff000000</color>
+  <color name="color_font_size_9">#ff000000</color>
   
 </resources>
