@@ -1,5 +1,5 @@
 {
-  "c-": {
+  "color": {
     "base": {
       "gray": {
         "light": {
@@ -1167,7 +1167,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "c-"
+      "color"
     ]
   }
 }
