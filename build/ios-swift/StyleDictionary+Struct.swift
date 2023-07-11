@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Jul 2023 08:14:26 GMT
+// Generated on Tue, 11 Jul 2023 08:18:12 GMT
 
 
 import UIKit
@@ -314,8 +314,14 @@ internal struct StyleDictionaryStruct {
     internal static let colorHuiSourceModesLightTertiaryFixedDim = UIColor(red: 0.306, green: 0.871, blue: 0.639, alpha: 1)
     internal static let colorHuiSourceSeed = UIColor(red: 0.388, green: 0.400, blue: 0.945, alpha: 1)
     internal static let colorHuiWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    internal static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
-    internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
-    internal static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
-    internal static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
+    internal static let fontSize0 = 12
+    internal static let fontSize1 = 14
+    internal static let fontSize2 = 16
+    internal static let fontSize3 = 18
+    internal static let fontSize4 = 20
+    internal static let fontSize5 = 24
+    internal static let fontSize6 = 30
+    internal static let fontSize7 = 36
+    internal static let fontSize8 = 48
+    internal static let fontSize9 = 60
 }
