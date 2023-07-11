@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Tue, 11 Jul 2023 08:14:26 GMT
+// Generated on Tue, 11 Jul 2023 08:47:06 GMT
 
 
 
@@ -12,12 +12,14 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.*
 
 object StyleDictionarySize {
-  /** the base size of the font */
-  val sizeFontBase = 16.00.sp
-  /** the large size of the font */
-  val sizeFontLarge = 32.00.sp
-  /** the medium size of the font */
-  val sizeFontMedium = 16.00.sp
-  /** the small size of the font */
-  val sizeFontSmall = 12.00.sp
+  val sizeFontBody = 224.00.sp
+  val sizeFontBodyLarge = 288.00.sp
+  val sizeFontBodyMedium = 256.00.sp
+  val sizeFontCaption = 192.00.sp
+  val sizeFontSubHeader = 320.00.sp
+  val sizeFontSubtitle = 480.00.sp
+  val sizeFontSubtitle2 = 384.00.sp
+  val sizeFontTitle1 = 960.00.sp
+  val sizeFontTitle2 = 768.00.sp
+  val sizeFontTitle3 = 576.00.sp
 }

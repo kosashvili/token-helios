@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Jul 2023 08:18:12 GMT
+// Generated on Tue, 11 Jul 2023 08:47:06 GMT
 
 
 import UIKit
@@ -314,14 +314,14 @@ public enum StyleDictionaryEnum {
     public static let colorHuiSourceModesLightTertiaryFixedDim = UIColor(red: 0.306, green: 0.871, blue: 0.639, alpha: 1)
     public static let colorHuiSourceSeed = UIColor(red: 0.388, green: 0.400, blue: 0.945, alpha: 1)
     public static let colorHuiWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let fontSize0 = 12
-    public static let fontSize1 = 14
-    public static let fontSize2 = 16
-    public static let fontSize3 = 18
-    public static let fontSize4 = 20
-    public static let fontSize5 = 24
-    public static let fontSize6 = 30
-    public static let fontSize7 = 36
-    public static let fontSize8 = 48
-    public static let fontSize9 = 60
+    public static let sizeFontBody = CGFloat(224.00)
+    public static let sizeFontBodyLarge = CGFloat(288.00)
+    public static let sizeFontBodyMedium = CGFloat(256.00)
+    public static let sizeFontCaption = CGFloat(192.00)
+    public static let sizeFontSubHeader = CGFloat(320.00)
+    public static let sizeFontSubtitle = CGFloat(480.00)
+    public static let sizeFontSubtitle2 = CGFloat(384.00)
+    public static let sizeFontTitle1 = CGFloat(960.00)
+    public static let sizeFontTitle2 = CGFloat(768.00)
+    public static let sizeFontTitle3 = CGFloat(576.00)
 }

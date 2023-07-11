@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 11 Jul 2023 08:18:12 GMT
+// Generated on Tue, 11 Jul 2023 08:47:06 GMT
 
 
 import UIKit
@@ -314,14 +314,14 @@ internal struct StyleDictionaryStruct {
     internal static let colorHuiSourceModesLightTertiaryFixedDim = UIColor(red: 0.306, green: 0.871, blue: 0.639, alpha: 1)
     internal static let colorHuiSourceSeed = UIColor(red: 0.388, green: 0.400, blue: 0.945, alpha: 1)
     internal static let colorHuiWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    internal static let fontSize0 = 12
-    internal static let fontSize1 = 14
-    internal static let fontSize2 = 16
-    internal static let fontSize3 = 18
-    internal static let fontSize4 = 20
-    internal static let fontSize5 = 24
-    internal static let fontSize6 = 30
-    internal static let fontSize7 = 36
-    internal static let fontSize8 = 48
-    internal static let fontSize9 = 60
+    internal static let sizeFontBody = CGFloat(224.00)
+    internal static let sizeFontBodyLarge = CGFloat(288.00)
+    internal static let sizeFontBodyMedium = CGFloat(256.00)
+    internal static let sizeFontCaption = CGFloat(192.00)
+    internal static let sizeFontSubHeader = CGFloat(320.00)
+    internal static let sizeFontSubtitle = CGFloat(480.00)
+    internal static let sizeFontSubtitle2 = CGFloat(384.00)
+    internal static let sizeFontTitle1 = CGFloat(960.00)
+    internal static let sizeFontTitle2 = CGFloat(768.00)
+    internal static let sizeFontTitle3 = CGFloat(576.00)
 }
