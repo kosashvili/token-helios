@@ -80,7 +80,6 @@ If you open `config.json` you will see there are 5 platforms defined: scss, andr
   <dimen name="size_font_large">32.00sp</dimen>
   <dimen name="size_font_base">16.00sp</dimen>
 </resources>
-
 <!-- colors.xml -->
 <resources>
   <color name="color_base_gray_light">#ffcccccc</color>
