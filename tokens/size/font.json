@@ -1,45 +1,42 @@
-{
-  "fontSize": {
-    "0": {
+"fontSize": {
+    "Caption": {
       "value": "12",
       "type": "fontSizes"
     },
-    "1": {
+    "Body": {
       "value": "14",
       "type": "fontSizes"
     },
-    "2": {
+    "BodyMedium": {
       "value": "16",
       "type": "fontSizes"
     },
-    "3": {
+    "BodyLarge": {
       "value": "18",
       "type": "fontSizes"
     },
-    "4": {
+    "SubHeader": {
       "value": "20",
       "type": "fontSizes"
     },
-    "5": {
+    "Subtitle2": {
       "value": "24",
       "type": "fontSizes"
     },
-    "6": {
+    "Subtitle": {
       "value": "30",
       "type": "fontSizes"
     },
-    "7": {
+    "Title3": {
       "value": "36",
       "type": "fontSizes"
     },
-    "8": {
+    "Title2": {
       "value": "48",
       "type": "fontSizes"
     },
-    "9": {
+    "Title1": {
       "value": "60",
       "type": "fontSizes"
     }
   }
-}
-}
