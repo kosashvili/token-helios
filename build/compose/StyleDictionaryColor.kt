@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Tue, 11 Jul 2023 08:11:11 GMT
+// Generated on Tue, 11 Jul 2023 08:14:26 GMT
 
 
 
@@ -12,11 +12,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.*
 
 object StyleDictionaryColor {
-  val colorBaseGrayDark = Color(0xff111111)
-  val colorBaseGrayLight = Color(0xffcccccc)
-  val colorBaseGrayMedium = Color(0xff999999)
-  val colorBaseGreen = Color(0xff00ff00)
-  val colorBaseRed = Color(0xffff0000)
   val colorFontSize0 = Color(0xff000000)
   val colorFontSize1 = Color(0xff000000)
   val colorFontSize2 = Color(0xff000000)
